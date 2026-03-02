@@ -103,15 +103,15 @@
 
 <p align="center">
   <img height="165em"
-       src="https://github-readme-stats.vercel.app/api?username=harshraivds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+       src="https://github-readme-stats.vercel.app/api?username=harshraivds&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
 
   <img height="165em"
-       src="https://streak-stats.demolab.com?user=harshraivds&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+       src="https://streak-stats.demolab.com?user=harshraivds&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
 <p align="center">
   <img height="165em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshraivds&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshraivds&layout=compact&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
 ---
