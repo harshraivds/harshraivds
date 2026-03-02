@@ -102,12 +102,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshraivds&show_icons=true&theme=tokyonight"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=harshraivds&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=harshraivds&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170em" src="https://nirzak-streak-stats.vercel.app/?user=harshraivds&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshraivds&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshraivds&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
