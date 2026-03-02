@@ -102,14 +102,6 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img height="165em"
-       src="https://github-readme-stats.vercel.app/api?username=harshraivds&show_icons=true&theme=tokyonight&hide_border=true&v=1" /> -->
-
-  <img height="165em"
-       src="https://streak-stats.demolab.com?user=harshraivds&theme=tokyonight&hide_border=true&v=1" />
-</p>
-
-<p align="center">
   <img height="165em"
        src="https://streak-stats.demolab.com?user=harshraivds&theme=tokyonight&hide_border=true&v=1" />
 </p> 
