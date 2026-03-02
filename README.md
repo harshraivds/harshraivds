@@ -109,10 +109,10 @@
        src="https://streak-stats.demolab.com?user=harshraivds&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="165em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshraivds&layout=compact&theme=tokyonight&hide_border=true&v=1" />
-</p>
+</p> -->
 
 ---
 
