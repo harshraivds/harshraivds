@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Rai</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+Engineer;Distributed+Systems+Enthusiast;Building+Scalable+Backend+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Java%20Backend%20Developer;Spring%20Boot%20%7C%20Microservices%20Engineer;Distributed%20Systems%20Enthusiast;Building%20Scalable%20Backend%20Applications" />
 </p>
 
 <p align="center">
@@ -14,19 +14,19 @@
 
 # 💫 About Me
 
-🚀 Java Backend Developer passionate about building **scalable, secure, and high-performance backend systems**.
+👨‍💻 Building scalable backend systems and microservices using **Java & Spring Boot**, focused on high-concurrency applications, secure REST APIs, and performance optimization.
 
-💡 Specialized in **Spring Boot microservices**, distributed transactions, and event-driven architectures.
+🚀 Passionate about designing **production-grade backend architectures** using distributed systems and event-driven patterns.
 
-⚙️ Experienced in designing **production-grade REST APIs**, authentication systems, caching strategies, and cloud deployments.
+🌱 Currently learning **advanced system design, cloud-native deployment, and microservices resilience patterns**.
 
-🌱 Currently exploring **advanced system design, cloud-native architecture, and scalability patterns**.
+💬 Ask me about **Java, Spring Boot, Microservices, REST APIs, JWT/OAuth2, Kafka, Redis, MySQL optimization, and backend architecture**.
 
-⚡ I enjoy solving concurrency problems and optimizing backend performance for real-world traffic.
+⚡ Fun fact: I enjoy solving concurrency challenges and optimizing backend performance for real-world traffic.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/harsh-rai-794707249/" target="blank">
@@ -47,7 +47,7 @@
 ✔ Event-Driven Systems (Kafka)  
 ✔ Secure Authentication (JWT & OAuth2)  
 ✔ High Concurrency Handling  
-✔ Performance Optimization & Caching  
+✔ Performance Optimization & Redis Caching  
 ✔ Cloud Deployment & Containerization  
 
 ---
@@ -85,10 +85,10 @@
 # 🚀 Featured Projects
 
 ### 🏥 Doctor Appointment System (Microservices)
-- High-concurrency booking system
+- High-concurrency booking workflow
 - Optimistic locking to prevent double booking
 - Saga-based distributed transactions
-- Kafka event notifications
+- Kafka async notifications
 - Redis caching for performance optimization
 
 ### 🎓 Course Evaluation & Learning Platform
@@ -118,4 +118,4 @@
 
 ---
 
-<h3 align="center">⭐ Building scalable backend systems one service at a time</h3>
+<h3 align="center">⭐ Building scalable backend systems one microservice at a time</h3>
