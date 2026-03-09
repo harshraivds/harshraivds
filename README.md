@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Rai</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Java%20Backend%20Developer;Spring%20Boot%20%7C%20Microservices%20Engineer;Distributed%20Systems%20Enthusiast;Building%20Scalable%20Backend%20Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Java%20Backend%20Developer%20(2%2B%20Years%20Experience);Spring%20Boot%20%7C%20Microservices%20Engineer;Distributed%20Systems%20Enthusiast;Building%20Scalable%20Backend%20Applications" />
 </p>
 
 <p align="center">
@@ -14,28 +14,34 @@
 
 # 💫 About Me
 
-👨‍💻 Building scalable backend systems and microservices using **Java & Spring Boot**, focused on high-concurrency applications, secure REST APIs, and performance optimization.
+👨‍💻 **Java Backend Developer with 2+ years of professional experience** building scalable backend systems and microservices using **Java & Spring Boot**.
 
-🚀 Passionate about designing **production-grade backend architectures** using distributed systems and event-driven patterns.
+🚀 Experienced in designing **high-concurrency applications**, secure **REST APIs**, and **event-driven microservices architectures** for production systems.
 
-🌱 Currently learning **advanced system design, cloud-native deployment, and microservices resilience patterns**.
+⚡ Strong background in **distributed systems, performance optimization, caching strategies, and backend scalability**.
 
-💬 Ask me about **Java, Spring Boot, Microservices, REST APIs, JWT/OAuth2, Kafka, Redis, MySQL optimization, and backend architecture**.
+🌱 Currently learning **advanced system design, cloud-native deployment, Kubernetes, and microservices resilience patterns**.
 
-⚡ Fun fact: I enjoy solving concurrency challenges and optimizing backend performance for real-world traffic.
+💬 Ask me about  
+**Java, Spring Boot, Microservices, REST APIs, JWT/OAuth2, Kafka, Redis, MySQL optimization, and backend architecture**.
 
 ---
 
-## 🌐 Connect With Me
+# 💼 Professional Experience
 
-<p align="left">
-<a href="https://www.linkedin.com/in/harsh-rai-794707249/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:harshraivds@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-</a>
-</p>
+**Java Backend Developer — Tricon Infotech**  
+📅 *Nov 2023 – Present*  
+📍 India
+
+- Developed **microservices-based backend systems** using **Java, Spring Boot, and MySQL**.
+- Built **high-concurrency appointment booking workflows** handling large request loads.
+- Implemented **optimistic locking** to prevent double booking.
+- Secured REST APIs using **Spring Security, JWT, and OAuth2 authentication**.
+- Designed **event-driven architecture using Apache Kafka**.
+- Implemented **Saga pattern for distributed transactions across microservices**.
+- Improved performance using **Redis caching**, reducing database load and API latency.
+- Deployed microservices on **AWS using Docker and Jenkins CI/CD pipelines**.
+- Optimized database queries and indexing improving system performance.
 
 ---
 
@@ -85,6 +91,7 @@
 # 🚀 Featured Projects
 
 ### 🏥 Doctor Appointment System (Microservices)
+
 - High-concurrency booking workflow
 - Optimistic locking to prevent double booking
 - Saga-based distributed transactions
@@ -92,10 +99,24 @@
 - Redis caching for performance optimization
 
 ### 🎓 Course Evaluation & Learning Platform
+
 - Role-based secure REST APIs
 - Step-based learning progression
 - Assessment & exam modules
 - Optimized database queries
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/harsh-rai-794707249/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:harshraivds@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -114,4 +135,4 @@
 
 ---
 
-<h3 align="center">⭐ Building scalable backend systems one microservice at a time</h3>
+<h3 align="center">⭐ Java Backend Developer | 2+ Years Experience | Building scalable backend systems</h3>
