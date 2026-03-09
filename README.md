@@ -29,7 +29,7 @@
 
 # 💼 Professional Experience
 
-**Java Backend Developer — Tricon Infotech**  
+**Java Backend Developer **  
 📅 *Nov 2023 – Present*  
 📍 India
 
